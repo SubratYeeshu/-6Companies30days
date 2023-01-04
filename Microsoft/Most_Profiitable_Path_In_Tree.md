@@ -1,5 +1,5 @@
 # Most Profitable Path in a Tree
-## Most Profitable Path in a Tree
+## https://leetcode.com/problems/most-profitable-path-in-a-tree/
 
 There is an undirected tree with n nodes labeled from 0 to n - 1, rooted at node 0. You are given a 2D integer array edges of length n - 1 where edges[i] = [ai, bi] indicates that there is an edge between nodes ai and bi in the tree.
 At every node i, there is a gate. You are also given an array of even integers amount, where amount[i] represents:
